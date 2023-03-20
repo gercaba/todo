@@ -4,9 +4,9 @@
   width: 12em;
   height: 12em;
   border-radius: 21px;
-  background: #c2cbd1;
-  box-shadow: 13px 13px 26px #a5adb2,
-    -13px -13px 26px #dfe9f0;
+  background: #bcffd0;
+  box-shadow: 5px 5px 10px #a5adb2,
+    -5px -5px 10px #dfe9f0;
 }
 
 .text {

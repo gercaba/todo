@@ -38,11 +38,10 @@
   }
 }
 
-
 .container {
   display: flex;
   flex-wrap: wrap;
-  background: #c2cbd1;
+  background: #fffdbe;
   height: 100%;
   align-items: center;
 }
@@ -58,9 +57,7 @@
   font-family: 'Nunito', sans-serif;
   font-weight: 300;
   font-size: medium;
-  background: #c2cbd1;
-  box-shadow: 13px 13px 26px #a5adb2,
-    -13px -13px 26px #dfe9f0;
+  background: #dfbcf2;
   align-self: flex-end;
   cursor: pointer;
   transition: all 0.1s ease-in-out;
@@ -76,6 +73,5 @@
 .newTodo:active {
   opacity: 1;
   background: #c2cbd1;
-  box-shadow: inset 15px 15px 30px #9fa6ab,
-    inset -15px -15px 30px #e5f0f7;
+ 
 }
